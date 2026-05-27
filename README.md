@@ -21,3 +21,6 @@ The notebook applies data analysis techniques with Python and Pandas to calculat
 - Risk indicator evaluation
 
 ## Project Structure
+## Risk Dashboard
+
+![Risk Dashboard](images/Sprint 4.png)
