@@ -23,4 +23,4 @@ The notebook applies data analysis techniques with Python and Pandas to calculat
 ## Project Structure
 ## Risk Dashboard
 
-![Risk Dashboard](images/risk-dashboard.png)
+![Risk Dashboard](risk-dashboard.png)
